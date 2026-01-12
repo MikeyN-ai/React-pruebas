@@ -12,6 +12,7 @@ const Home = () => {
         { /* Forma correcta de fer enlaces */ }
         <Link to="/controlat">Anar a controlat</Link><br />
         <Link to="/likeapro">Anar a likeapro</Link><br />
+        <Link to="/productes">Anar a productes</Link><br />
     </div>
   )
 }
